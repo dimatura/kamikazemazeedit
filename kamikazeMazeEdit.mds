@@ -1,0 +1,16 @@
+<Combine name="kamikazeMazeEdit" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="kamikazeMazeEdit" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="kamikazeMazeEdit" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="kamikazeMazeEdit" single="True">
+    <Execute type="None" entry="kamikazeMazeEdit" />
+  </StartMode>
+  <Entries>
+    <Entry filename="kamikazeMazeEdit.mdp" />
+  </Entries>
+</Combine>
